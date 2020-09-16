@@ -6,3 +6,9 @@ heart rate -oximeter (Blood Oxygen) - Diabetes Diagnosis- blood pressure - body 
 1- Max30100 - (Blood Oxygen & Heart rate BPM)
 2- LM35 Temperature Sensor
 3-
+ e-Health Sensor Shield - is agood recomendation 
+ 
+good resourses and links 
+https://sci-hub.tw/https://ieeexplore.ieee.org/document/8226669
+
+https://www.cooking-hacks.com/ehealth-sensor-shield-biometric-medical-arduino-raspberry-pi.html
