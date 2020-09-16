@@ -11,7 +11,8 @@ i think [e-Health Sensor Shield](https://www.cooking-hacks.com/ehealth-sensor-sh
  
 
 good resourses and links \
-[An Interfacing Digital Blood Pressure Meter with Arduino-GSM Module for Real-time Monitoring 
-](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8226669)
+[An Interfacing Digital Blood Pressure Meter with Arduino-GSM Module for Real-time Monitoring ](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8226669)
 
+
+> https://how2electronics.com/iot-patient-health-monitoring-system-esp8266/
 
