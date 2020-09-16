@@ -9,7 +9,8 @@ i think [e-Health Sensor Shield](https://www.cooking-hacks.com/ehealth-sensor-sh
 ![](images/todos_elementos.png)
  
 
-good resourses and links 
-https://sci-hub.tw/https://ieeexplore.ieee.org/document/8226669
+good resourses and links \
+[An Interfacing Digital Blood Pressure Meter with Arduino-GSM Module for Real-time Monitoring 
+](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8226669)
 
-https://www.cooking-hacks.com/ehealth-sensor-shield-biometric-medical-arduino-raspberry-pi.html
+
